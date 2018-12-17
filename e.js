@@ -1,1 +1,2 @@
-while ('e') console.log('e');
+e = console.log;
+while ('e') e('e');
